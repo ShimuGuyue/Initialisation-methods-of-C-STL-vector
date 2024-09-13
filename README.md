@@ -4,8 +4,4 @@
 
 ------
 
-转载请附链接[Upload files · ShimuGuyue/Initialisation-methods-of-C-STL-vector (github.com)](https://github.com/ShimuGuyue/Initialisation-methods-of-C-STL-vector)
-
-知识需要得到传播，
-
-但绝不能因此成为某些人捞黑钱的手段！！！
+转载请附链接https://github.com/ShimuGuyue/Initialisation-methods-of-C-STL-vector
